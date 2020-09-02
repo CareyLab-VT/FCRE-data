@@ -53265,3 +53265,7 @@
 2020/09/01 19:27:46 autossh[1961]: check on child 6011
 2020/09/01 19:27:46 autossh[1961]: set alarm for 600 secs
 2020/09/01 19:27:46 autossh[6011]: execing /usr/bin/ssh
+
+############################ mia - 09/01/20 19:30:01 EST ############################
+
+2020/09/01 19:30:01 autossh[6096]: bind on 127.0.0.1:61001: Address already in use
