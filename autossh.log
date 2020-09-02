@@ -53725,3 +53725,39 @@
 2020/09/02 00:20:01 autossh[2159]: check on child 2160
 2020/09/02 00:20:01 autossh[2159]: set alarm for 600 secs
 2020/09/02 00:20:01 autossh[2160]: execing /usr/bin/ssh
+
+############################ mia - 09/02/20 00:25:01 EST ############################
+
+2020/09/02 00:25:01 autossh[2373]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/02/20 00:30:01 EST ############################
+
+2020/09/02 00:30:01 autossh[2425]: bind on 127.0.0.1:61001: Address already in use
+2020/09/02 00:30:16 autossh[2159]: timeout polling to accept read connection
+2020/09/02 00:30:16 autossh[2159]: port down, restarting ssh
+2020/09/02 00:30:16 autossh[2159]: checking for grace period, tries = 0
+2020/09/02 00:30:16 autossh[2159]: starting ssh (count 2)
+2020/09/02 00:30:16 autossh[2159]: ssh child pid is 2438
+2020/09/02 00:30:16 autossh[2159]: check on child 2438
+2020/09/02 00:30:16 autossh[2159]: set alarm for 600 secs
+2020/09/02 00:30:16 autossh[2438]: execing /usr/bin/ssh
+
+############################ mia - 09/02/20 00:35:01 EST ############################
+
+2020/09/02 00:35:01 autossh[2480]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/02/20 00:40:01 EST ############################
+
+2020/09/02 00:40:01 autossh[2533]: bind on 127.0.0.1:61001: Address already in use
+2020/09/02 00:40:31 autossh[2159]: timeout polling to accept read connection
+2020/09/02 00:40:31 autossh[2159]: port down, restarting ssh
+2020/09/02 00:40:31 autossh[2159]: checking for grace period, tries = 0
+2020/09/02 00:40:31 autossh[2159]: starting ssh (count 3)
+2020/09/02 00:40:31 autossh[2159]: ssh child pid is 2545
+2020/09/02 00:40:31 autossh[2159]: check on child 2545
+2020/09/02 00:40:31 autossh[2159]: set alarm for 600 secs
+2020/09/02 00:40:31 autossh[2545]: execing /usr/bin/ssh
+
+############################ mia - 09/02/20 00:45:01 EST ############################
+
+2020/09/02 00:45:01 autossh[2690]: bind on 127.0.0.1:61001: Address already in use
