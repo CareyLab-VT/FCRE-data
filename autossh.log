@@ -53716,3 +53716,12 @@
 2020/09/02 00:10:04 autossh[1961]: check on child 8943
 2020/09/02 00:10:04 autossh[1961]: ssh exited with status 0; autossh exiting
 2020/09/02 00:10:04 autossh[1961]: expired child, returning 2
+
+############################ mia - 09/02/20 00:20:01 EST ############################
+
+2020/09/02 00:20:01 autossh[2159]: checking for grace period, tries = 0
+2020/09/02 00:20:01 autossh[2159]: starting ssh (count 1)
+2020/09/02 00:20:01 autossh[2159]: ssh child pid is 2160
+2020/09/02 00:20:01 autossh[2159]: check on child 2160
+2020/09/02 00:20:01 autossh[2159]: set alarm for 600 secs
+2020/09/02 00:20:01 autossh[2160]: execing /usr/bin/ssh
