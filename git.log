@@ -110819,3 +110819,24 @@ Already up to date.
  3 files changed, 266 insertions(+)
 To github.com:CareyLabVT/SCCData.git
    5b21262b..d53539ed  mia-logs -> mia-logs
+[mia-logs 83f1a891] 09/01/20 14:05:01 EST: Logs
+ 2 files changed, 9 insertions(+)
+To github.com:CareyLabVT/SCCData.git
+   d53539ed..83f1a891  mia-logs -> mia-logs
+
+############################ mia - 09/01/20 19:28:40 EST ############################
+
+Data:
+
+Already up to date.
+[mia-data eff8376] 09/01/20 19:28:40 EST: Git Backup
+ 2 files changed, 60 insertions(+)
+fatal: The current branch mia-data has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin mia-data
+
+
+Logs:
+
+Already up to date.
