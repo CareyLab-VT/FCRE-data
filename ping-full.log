@@ -43555,3 +43555,4 @@
 2020-09-02 08:02:21 64 bytes from 8.8.8.8: icmp_seq=462 ttl=111 time=70.4 ms
 2020-09-02 08:03:21 64 bytes from 8.8.8.8: icmp_seq=463 ttl=111 time=69.6 ms
 2020-09-02 08:04:21 64 bytes from 8.8.8.8: icmp_seq=464 ttl=111 time=55.5 ms
+2020-09-02 08:05:21 64 bytes from 8.8.8.8: icmp_seq=465 ttl=111 time=72.6 ms
