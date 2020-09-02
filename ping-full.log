@@ -42817,3 +42817,4 @@
 2020-09-01 19:26:00 64 bytes from 8.8.8.8: icmp_seq=431 ttl=111 time=61.3 ms
 2020-09-01 19:27:01 64 bytes from 8.8.8.8: icmp_seq=432 ttl=111 time=59.1 ms
 2020-09-01 19:28:01 64 bytes from 8.8.8.8: icmp_seq=433 ttl=111 time=65.5 ms
+2020-09-01 19:29:01 64 bytes from 8.8.8.8: icmp_seq=434 ttl=111 time=740 ms
