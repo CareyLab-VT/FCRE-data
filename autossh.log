@@ -59968,3 +59968,135 @@
 2020/09/05 00:20:01 autossh[1957]: check on child 1958
 2020/09/05 00:20:01 autossh[1957]: set alarm for 600 secs
 2020/09/05 00:20:01 autossh[1958]: execing /usr/bin/ssh
+
+############################ mia - 09/05/20 00:25:01 EST ############################
+
+2020/09/05 00:25:01 autossh[2160]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 00:30:01 autossh[1957]: connection ok
+2020/09/05 00:30:01 autossh[1957]: check on child 1958
+2020/09/05 00:30:01 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 00:30:01 EST ############################
+
+2020/09/05 00:30:01 autossh[2205]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 00:35:01 EST ############################
+
+2020/09/05 00:35:01 autossh[2262]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 00:40:01 autossh[1957]: not what I sent: "mia autossh 1957 630460910 
+" : ""
+
+############################ mia - 09/05/20 00:40:01 EST ############################
+
+2020/09/05 00:40:01 autossh[2300]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 00:40:01 autossh[1957]: connection ok
+2020/09/05 00:40:01 autossh[1957]: check on child 1958
+2020/09/05 00:40:01 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 00:45:01 EST ############################
+
+2020/09/05 00:45:01 autossh[2336]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 00:50:01 autossh[1957]: not what I sent: "mia autossh 1957 1797301376 
+" : ""
+
+############################ mia - 09/05/20 00:50:02 EST ############################
+
+2020/09/05 00:50:02 autossh[2372]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 00:50:02 autossh[1957]: connection ok
+2020/09/05 00:50:02 autossh[1957]: check on child 1958
+2020/09/05 00:50:02 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 00:55:01 EST ############################
+
+2020/09/05 00:55:01 autossh[2409]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 01:00:01 EST ############################
+
+2020/09/05 01:00:01 autossh[2444]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 01:00:02 autossh[1957]: not what I sent: "mia autossh 1957 570283602 
+" : ""
+2020/09/05 01:00:02 autossh[1957]: connection ok
+2020/09/05 01:00:02 autossh[1957]: check on child 1958
+2020/09/05 01:00:02 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 01:05:01 EST ############################
+
+2020/09/05 01:05:01 autossh[2494]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 01:10:02 EST ############################
+
+2020/09/05 01:10:02 autossh[2531]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 01:10:02 autossh[1957]: not what I sent: "mia autossh 1957 67964725 
+" : ""
+2020/09/05 01:10:02 autossh[1957]: connection ok
+2020/09/05 01:10:02 autossh[1957]: check on child 1958
+2020/09/05 01:10:02 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 01:15:01 EST ############################
+
+2020/09/05 01:15:01 autossh[2569]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 01:20:01 EST ############################
+
+2020/09/05 01:20:01 autossh[2609]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 01:20:02 autossh[1957]: not what I sent: "mia autossh 1957 577812178 
+" : ""
+2020/09/05 01:20:02 autossh[1957]: connection ok
+2020/09/05 01:20:02 autossh[1957]: check on child 1958
+2020/09/05 01:20:02 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 01:25:01 EST ############################
+
+2020/09/05 01:25:01 autossh[2645]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 01:30:01 EST ############################
+
+2020/09/05 01:30:01 autossh[2682]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 01:30:02 autossh[1957]: not what I sent: "mia autossh 1957 622807770 
+" : ""
+2020/09/05 01:30:03 autossh[1957]: connection ok
+2020/09/05 01:30:03 autossh[1957]: check on child 1958
+2020/09/05 01:30:03 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 01:35:01 EST ############################
+
+2020/09/05 01:35:01 autossh[2725]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 01:40:01 EST ############################
+
+2020/09/05 01:40:01 autossh[2771]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 01:40:03 autossh[1957]: not what I sent: "mia autossh 1957 1409436570 
+" : ""
+2020/09/05 01:40:03 autossh[1957]: connection ok
+2020/09/05 01:40:03 autossh[1957]: check on child 1958
+2020/09/05 01:40:03 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 01:45:02 EST ############################
+
+2020/09/05 01:45:02 autossh[2808]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 01:50:01 EST ############################
+
+2020/09/05 01:50:01 autossh[2845]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 01:50:03 autossh[1957]: not what I sent: "mia autossh 1957 1798697037 
+" : ""
+2020/09/05 01:50:03 autossh[1957]: connection ok
+2020/09/05 01:50:03 autossh[1957]: check on child 1958
+2020/09/05 01:50:03 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 01:55:01 EST ############################
+
+2020/09/05 01:55:01 autossh[2881]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/05/20 02:00:01 EST ############################
+
+2020/09/05 02:00:02 autossh[2919]: bind on 127.0.0.1:61001: Address already in use
+2020/09/05 02:00:03 autossh[1957]: not what I sent: "mia autossh 1957 792529312 
+" : ""
+2020/09/05 02:00:03 autossh[1957]: connection ok
+2020/09/05 02:00:03 autossh[1957]: check on child 1958
+2020/09/05 02:00:03 autossh[1957]: set alarm for 600 secs
+
+############################ mia - 09/05/20 02:05:01 EST ############################
+
+2020/09/05 02:05:02 autossh[2977]: bind on 127.0.0.1:61001: Address already in use
