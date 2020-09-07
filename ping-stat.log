@@ -473,3 +473,8 @@
 
 2020-09-06 23:56:12 700 packets transmitted, 698 received, 0% packet loss, time 41968394ms
 2020-09-06 23:56:12 rtt min/avg/max/mdev = 28.587/78.506/5312.615/215.203 ms
+
+############## mia - 09/07/20 00:21:07 EST -0500 ##############
+
+2020-09-07 12:01:36 700 packets transmitted, 698 received, 0% packet loss, time 41968820ms
+2020-09-07 12:01:36 rtt min/avg/max/mdev = 28.938/52.970/494.147/37.587 ms
