@@ -69853,3 +69853,142 @@
 ############################ mia - 09/10/20 00:20:01 EST ############################
 
 2020/09/10 00:20:01 autossh[1995]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 00:25:01 EST ############################
+
+2020/09/10 00:25:01 autossh[2198]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 00:28:12 autossh[1964]: connection ok
+2020/09/10 00:28:12 autossh[1964]: check on child 1965
+2020/09/10 00:28:12 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 00:30:01 EST ############################
+
+2020/09/10 00:30:01 autossh[2256]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 00:35:01 EST ############################
+
+2020/09/10 00:35:01 autossh[2295]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 00:38:12 autossh[1964]: not what I sent: "mia autossh 1964 490148997 
+" : ""
+2020/09/10 00:38:12 autossh[1964]: not what I sent: "mia autossh 1964 490148997 
+" : ""
+2020/09/10 00:38:12 autossh[1964]: tried connection 3 times and failed
+2020/09/10 00:38:12 autossh[1964]: port down, restarting ssh
+2020/09/10 00:38:12 autossh[1964]: checking for grace period, tries = 0
+2020/09/10 00:38:12 autossh[1964]: starting ssh (count 2)
+2020/09/10 00:38:12 autossh[1964]: ssh child pid is 2314
+2020/09/10 00:38:12 autossh[1964]: check on child 2314
+2020/09/10 00:38:12 autossh[1964]: set alarm for 600 secs
+2020/09/10 00:38:12 autossh[2314]: execing /usr/bin/ssh
+
+############################ mia - 09/10/20 00:40:01 EST ############################
+
+2020/09/10 00:40:01 autossh[2333]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 00:45:01 EST ############################
+
+2020/09/10 00:45:01 autossh[2369]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 00:48:12 autossh[1964]: not what I sent: "mia autossh 1964 391445415 
+" : ""
+2020/09/10 00:48:12 autossh[1964]: connection ok
+2020/09/10 00:48:12 autossh[1964]: check on child 2314
+2020/09/10 00:48:12 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 00:50:01 EST ############################
+
+2020/09/10 00:50:01 autossh[2406]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 00:55:01 EST ############################
+
+2020/09/10 00:55:01 autossh[2449]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 00:58:12 autossh[1964]: not what I sent: "mia autossh 1964 629813674 
+" : ""
+2020/09/10 00:58:12 autossh[1964]: connection ok
+2020/09/10 00:58:12 autossh[1964]: check on child 2314
+2020/09/10 00:58:12 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 01:00:01 EST ############################
+
+2020/09/10 01:00:01 autossh[2491]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 01:05:01 EST ############################
+
+2020/09/10 01:05:01 autossh[2538]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 01:08:12 autossh[1964]: not what I sent: "mia autossh 1964 1924883862 
+" : ""
+2020/09/10 01:08:13 autossh[1964]: connection ok
+2020/09/10 01:08:13 autossh[1964]: check on child 2314
+2020/09/10 01:08:13 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 01:10:01 EST ############################
+
+2020/09/10 01:10:02 autossh[2577]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 01:15:01 EST ############################
+
+2020/09/10 01:15:01 autossh[2613]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 01:18:13 autossh[1964]: not what I sent: "mia autossh 1964 1640170873 
+" : ""
+2020/09/10 01:18:13 autossh[1964]: connection ok
+2020/09/10 01:18:13 autossh[1964]: check on child 2314
+2020/09/10 01:18:13 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 01:20:01 EST ############################
+
+2020/09/10 01:20:01 autossh[2662]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 01:25:01 EST ############################
+
+2020/09/10 01:25:01 autossh[2706]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 01:28:13 autossh[1964]: not what I sent: "mia autossh 1964 1382815945 
+" : ""
+2020/09/10 01:28:13 autossh[1964]: connection ok
+2020/09/10 01:28:13 autossh[1964]: check on child 2314
+2020/09/10 01:28:13 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 01:30:01 EST ############################
+
+2020/09/10 01:30:01 autossh[2744]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 01:35:01 EST ############################
+
+2020/09/10 01:35:01 autossh[2786]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 01:38:13 autossh[1964]: not what I sent: "mia autossh 1964 2063982708 
+" : ""
+2020/09/10 01:38:13 autossh[1964]: connection ok
+2020/09/10 01:38:13 autossh[1964]: check on child 2314
+2020/09/10 01:38:13 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 01:40:01 EST ############################
+
+2020/09/10 01:40:01 autossh[2830]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 01:45:01 EST ############################
+
+2020/09/10 01:45:01 autossh[2866]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 01:48:13 autossh[1964]: not what I sent: "mia autossh 1964 1031570375 
+" : ""
+2020/09/10 01:48:14 autossh[1964]: connection ok
+2020/09/10 01:48:14 autossh[1964]: check on child 2314
+2020/09/10 01:48:14 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 01:50:01 EST ############################
+
+2020/09/10 01:50:01 autossh[2904]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 01:55:01 EST ############################
+
+2020/09/10 01:55:01 autossh[2940]: bind on 127.0.0.1:61001: Address already in use
+2020/09/10 01:58:14 autossh[1964]: not what I sent: "mia autossh 1964 818152712 
+" : ""
+2020/09/10 01:58:14 autossh[1964]: connection ok
+2020/09/10 01:58:14 autossh[1964]: check on child 2314
+2020/09/10 01:58:14 autossh[1964]: set alarm for 600 secs
+
+############################ mia - 09/10/20 02:00:02 EST ############################
+
+2020/09/10 02:00:02 autossh[2978]: bind on 127.0.0.1:61001: Address already in use
+
+############################ mia - 09/10/20 02:05:01 EST ############################
+
+2020/09/10 02:05:01 autossh[3038]: bind on 127.0.0.1:61001: Address already in use
