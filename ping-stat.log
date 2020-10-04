@@ -728,3 +728,8 @@
 
 2020-10-03 23:55:10 700 packets transmitted, 700 received, 0% packet loss, time 41968548ms
 2020-10-03 23:55:10 rtt min/avg/max/mdev = 35.665/61.494/827.921/36.544 ms
+
+############## mia - 10/04/20 00:21:36 EST -0500 ##############
+
+2020-10-04 12:09:01 --- 8.8.8.8 ping statistics ---
+2020-10-04 12:09:01 700 packets transmitted, 0 received, +381 errors, 100% packet loss, time 42435254ms
