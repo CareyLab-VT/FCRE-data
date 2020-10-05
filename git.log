@@ -115474,3 +115474,10 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[mia-logs e889e960] 10/04/20 20:05:01 EST: Logs
+ 4 files changed, 1767 insertions(+)
+ssh: connect to host github.com port 22: Network is unreachable
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
