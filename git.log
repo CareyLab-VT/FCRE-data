@@ -115913,3 +115913,24 @@ Everything up-to-date
 Logs:
 
 Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   5797686a..d7871bbf  mia-logs -> mia-logs
+fatal: Unable to create '/data/mia-logs/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/mia-logs/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+[mia-logs 8cb37b2e] 10/06/20 14:05:20 EST: Logs
+ 3 files changed, 77 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   d7871bbf..8cb37b2e  mia-logs -> mia-logs
