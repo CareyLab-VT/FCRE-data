@@ -115765,3 +115765,24 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[mia-logs 2f99ea12] 10/05/20 14:19:48 EST: Logs
+ 1 file changed, 7 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ mia - 10/05/20 20:05:01 EST ############################
+
+Data:
+
+Already up to date.
+[fcre-catwalk-data f769605] 10/05/20 20:05:01 EST: Git Backup
+ 2 files changed, 72 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   2bbaf31..f769605  fcre-catwalk-data -> fcre-catwalk-data
+
+Logs:
+
+Already up to date.
