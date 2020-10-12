@@ -116562,3 +116562,31 @@ Already up to date.
  3 files changed, 605 insertions(+)
 To github.com:FLARE-forecast/FCRE-data.git
    8ef21528..28420a69  mia-logs -> mia-logs
+[mia-logs 6c497e6e] 10/11/20 20:05:01 EST: Logs
+ 1 file changed, 4 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   28420a69..6c497e6e  mia-logs -> mia-logs
+
+############################ mia - 10/12/20 01:39:33 EST ############################
+
+Data:
+
+From github.com:FLARE-forecast/FCRE-data
+   d54c921..e3b89c9  fcre-catwalk-data -> origin/fcre-catwalk-data
+Updating d54c921..e3b89c9
+Fast-forward
+ BVRplatform.csv   |      5 -
+ Catwalk.csv       | 238568 +++++++++++++++++++++++++--------------------------
+ FCRWaterLevel.csv |  42966 +++++-----
+ 3 files changed, 140767 insertions(+), 140772 deletions(-)
+ delete mode 100644 BVRplatform.csv
+[fcre-catwalk-data 475661c] 10/12/20 01:39:33 EST: Git Backup
+ 3 files changed, 140832 insertions(+), 140767 deletions(-)
+ create mode 100644 BVRplatform.csv
+ rewrite FCRWaterLevel.csv (84%)
+To github.com:FLARE-forecast/FCRE-data.git
+   e3b89c9..475661c  fcre-catwalk-data -> fcre-catwalk-data
+
+Logs:
+
+Already up to date.
