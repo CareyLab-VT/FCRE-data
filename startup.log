@@ -1,0 +1,103 @@
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+[master 6a7bd93] Tue Oct 13 20:36:20 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Current branch master is up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   814f8b6..6a7bd93  master -> master
+[master 446653a] Tue Oct 13 20:37:19 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Current branch master is up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   6a7bd93..446653a  master -> master
+[master 0249bc0] Tue Oct 13 20:38:44 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Current branch master is up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   446653a..0249bc0  master -> master
+[master d112d53] Tue Oct 13 20:39:23 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Current branch master is up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   0249bc0..d112d53  master -> master
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+./startup.sh: line 7: cd: git_directory: No such file or directory
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+./startup.sh: line 7: git_directory: command not found
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+[master 1d7407f] Tue Oct 13 21:37:08 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Current branch master is up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   d112d53..1d7407f  master -> master
+[master bcaa96f] Tue Oct 13 21:41:16 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   1d7407f..837682c  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Tue Oct 13 21:41:16 EST 2020
+To github.com:FLARE-forecast/FCRE-data.git
+   837682c..a1d4361  master -> master
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
