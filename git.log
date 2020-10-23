@@ -117984,3 +117984,26 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/FCRE-data.git
    a8e5155e..daa5a0c4  mia-logs -> mia-logs
+[mia-logs 8e1dc010] 10/23/20 08:05:01 EST: Logs
+ 1 file changed, 5 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   daa5a0c4..8e1dc010  mia-logs -> mia-logs
+
+############################ mia - 10/23/20 10:41:43 EST ############################
+
+Data:
+
+[fcre-catwalk-data 04f580e] 10/23/20 10:41:43 EST: Git Backup
+From github.com:FLARE-forecast/FCRE-data
+   79e7fa3..fb79c67  fcre-catwalk-data -> origin/fcre-catwalk-data
+Merge made by the 'recursive' strategy.
+ CAT_MaintenanceLog.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File Catwalk.csv is 65.39 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+To github.com:FLARE-forecast/FCRE-data.git
+   fb79c67..86f1024  fcre-catwalk-data -> fcre-catwalk-data
+
+Logs:
+
