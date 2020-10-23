@@ -118012,3 +118012,29 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/FCRE-data.git
    8e1dc010..c89bc3e5  mia-logs -> mia-logs
+[mia-logs f4e895c3] 10/23/20 10:41:43 EST: Logs
+ 1 file changed, 5 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   c89bc3e5..f4e895c3  mia-logs -> mia-logs
+
+############################ mia - 10/23/20 14:05:01 EST ############################
+
+Data:
+
+[fcre-catwalk-data 3ab5329] 10/23/20 14:05:01 EST: Git Backup
+ 2 files changed, 48 insertions(+)
+From github.com:FLARE-forecast/FCRE-data
+   86f1024..4e3f515  fcre-catwalk-data -> origin/fcre-catwalk-data
+Auto-merging Catwalk.csv
+CONFLICT (content): Merge conflict in Catwalk.csv
+Automatic merge failed; fix conflicts and then commit the result.
+To github.com:FLARE-forecast/FCRE-data.git
+ ! [rejected]        fcre-catwalk-data -> fcre-catwalk-data (non-fast-forward)
+error: failed to push some refs to 'git@github.com:FLARE-forecast/FCRE-data.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Logs:
+
