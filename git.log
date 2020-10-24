@@ -118073,3 +118073,23 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/FCRE-data.git
    410afa9b..2e02b8e9  mia-logs -> mia-logs
+[mia-logs 42e9268b] 10/23/20 20:05:01 EST: Logs
+ 1 file changed, 5 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   2e02b8e9..42e9268b  mia-logs -> mia-logs
+
+############################ mia - 10/24/20 00:21:53 EST ############################
+
+Data:
+
+[fcre-catwalk-data e3bd15b] 10/24/20 00:21:53 EST: Git Backup
+ 2 files changed, 48 insertions(+)
+Already up to date.
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File Catwalk.csv is 70.30 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+To github.com:FLARE-forecast/FCRE-data.git
+   c2ab39c..e3bd15b  fcre-catwalk-data -> fcre-catwalk-data
+
+Logs:
+
