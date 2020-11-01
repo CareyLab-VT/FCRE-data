@@ -848,3 +848,8 @@
 
 2020-10-31 00:02:39 1420 packets transmitted, 1419 received, 0% packet loss, time 85179643ms
 2020-10-31 00:02:39 rtt min/avg/max/mdev = 32.071/61.251/2331.989/93.146 ms
+
+############## mia - 10/31/20 00:22:06 EST -0500 ##############
+
+2020-11-01 00:02:46 1420 packets transmitted, 1419 received, 0% packet loss, time 85179871ms
+2020-11-01 00:02:46 rtt min/avg/max/mdev = 34.836/72.262/1255.089/76.248 ms
