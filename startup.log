@@ -368,3 +368,11 @@ First, rewinding head to replay your work on top of it...
 Applying: Wed Nov 11 00:21:42 EST 2020
 To github.com:FLARE-forecast/FCRE-data.git
    fa2c9cf..adbded6  master -> master
+[master e1699bc] Thu Nov 12 00:21:44 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   adbded6..95387af  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Thu Nov 12 00:21:44 EST 2020
+To github.com:FLARE-forecast/FCRE-data.git
+   95387af..095cc3d  master -> master
