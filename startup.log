@@ -464,3 +464,17 @@ First, rewinding head to replay your work on top of it...
 Applying: Mon Nov 23 00:21:57 EST 2020
 To github.com:FLARE-forecast/FCRE-data.git
    a9a26f2..b17519f  master -> master
+[master 35c8f10] Tue Nov 24 00:22:00 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   b17519f..0ff5d5b  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Tue Nov 24 00:22:00 EST 2020
+To github.com:FLARE-forecast/FCRE-data.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:FLARE-forecast/FCRE-data.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
