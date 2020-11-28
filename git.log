@@ -122219,3 +122219,11 @@ To github.com:FLARE-forecast/FCRE-data.git
 
 Logs:
 
+[mia-logs 411aa00d] 11/27/20 20:05:01 EST: Logs
+ 4 files changed, 822 insertions(+)
+Already up to date.
+Connection closed by 140.82.113.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
