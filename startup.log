@@ -550,3 +550,10 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [master ba56be2] Sun Nov 29 00:22:05 EST 2020
  1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   53c3438..eeab390  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Sat Nov 28 00:22:05 EST 2020
+Applying: Sun Nov 29 00:22:05 EST 2020
+To github.com:FLARE-forecast/FCRE-data.git
+   eeab390..2e077ba  master -> master
