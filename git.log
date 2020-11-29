@@ -122353,3 +122353,23 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/FCRE-data.git
    e403e42a..6a7c7a26  mia-logs -> mia-logs
+[mia-logs 2b54a989] 11/28/20 20:05:01 EST: Logs
+ 2 files changed, 6 insertions(+)
+Connection closed by 140.82.112.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ mia - 11/29/20 00:22:35 EST ############################
+
+Data:
+
+[fcre-catwalk-data ad21aca] 11/29/20 00:22:35 EST: Git Backup
+ 2 files changed, 48 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   8a7c55f..ad21aca  fcre-catwalk-data -> fcre-catwalk-data
+
+Logs:
+
