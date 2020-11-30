@@ -122501,3 +122501,30 @@ Please make sure you have the correct access rights
 and the repository exists.
 To github.com:FLARE-forecast/FCRE-data.git
    54ef0b81..2304a700  mia-logs -> mia-logs
+[mia-logs cc0f0c1f] 11/29/20 20:05:01 EST: Logs
+ 3 files changed, 30 insertions(+)
+Connection closed by 140.82.112.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ mia - 11/30/20 00:22:33 EST ############################
+
+Data:
+
+[fcre-catwalk-data 0d457ff] 11/30/20 00:22:33 EST: Git Backup
+ 2 files changed, 48 insertions(+)
+Connection closed by 140.82.113.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Connection closed by 140.82.114.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Logs:
+

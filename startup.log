@@ -557,3 +557,15 @@ Applying: Sat Nov 28 00:22:05 EST 2020
 Applying: Sun Nov 29 00:22:05 EST 2020
 To github.com:FLARE-forecast/FCRE-data.git
    eeab390..2e077ba  master -> master
+[master f2a61c8] Mon Nov 30 00:22:03 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Connection closed by 140.82.112.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Connection closed by 140.82.112.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
