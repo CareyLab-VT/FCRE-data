@@ -123060,3 +123060,7 @@ and the repository exists.
 
 Logs:
 
+[mia-logs e1720978] 12/02/20 14:40:42 EST: Logs
+ 6 files changed, 595 insertions(+)
+fatal: unable to access 'https://github.com/FLARE-forecast/FCRE-data.git/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/FLARE-forecast/FCRE-data.git/': Could not resolve host: github.com
