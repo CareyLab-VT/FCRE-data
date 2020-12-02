@@ -122918,3 +122918,15 @@ and the repository exists.
 
 Logs:
 
+[mia-logs 9e687d8a] 12/02/20 00:22:40 EST: Logs
+ 6 files changed, 1671 insertions(+)
+Connection closed by 140.82.112.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Connection closed by 140.82.112.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
