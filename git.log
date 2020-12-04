@@ -123224,3 +123224,20 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/FCRE-data.git
    76e7b592..9f9cf97a  mia-logs -> mia-logs
+[mia-logs f1b14946] 12/03/20 20:05:01 EST: Logs
+ 1 file changed, 5 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   9f9cf97a..f1b14946  mia-logs -> mia-logs
+
+############################ mia - 12/04/20 00:22:41 EST ############################
+
+Data:
+
+[fcre-catwalk-data ee9645d] 12/04/20 00:22:41 EST: Git Backup
+ 2 files changed, 48 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   2c7df0c..ee9645d  fcre-catwalk-data -> fcre-catwalk-data
+
+Logs:
+
