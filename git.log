@@ -124042,3 +124042,15 @@ and the repository exists.
 
 Logs:
 
+[mia-logs 22c06ffa] 12/09/20 00:22:48 EST: Logs
+ 6 files changed, 772 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
