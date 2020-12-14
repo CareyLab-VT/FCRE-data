@@ -125029,3 +125029,30 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[mia-logs 863a9122] 12/14/20 00:23:04 EST: Logs
+ 2 files changed, 36 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ mia - 12/14/20 02:05:01 EST ############################
+
+Data:
+
+[fcre-catwalk-data f07ca5c] 12/14/20 02:05:01 EST: Git Backup
+ 2 files changed, 24 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Logs:
+
