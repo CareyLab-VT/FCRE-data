@@ -758,3 +758,19 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[master bc96693] Mon Dec 14 12:18:29 EST 2020
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+From github.com:FLARE-forecast/FCRE-data
+   068130b..eeb8898  master     -> origin/master
+First, rewinding head to replay your work on top of it...
+Applying: Mon Dec  7 00:22:14 EST 2020
+Applying: Tue Dec  8 00:22:17 EST 2020
+Applying: Wed Dec  9 00:22:19 EST 2020
+Applying: Thu Dec 10 00:22:24 EST 2020
+Applying: Fri Dec 11 00:22:22 EST 2020
+Applying: Sat Dec 12 00:22:27 EST 2020
+Applying: Sun Dec 13 00:22:28 EST 2020
+Applying: Mon Dec 14 00:22:34 EST 2020
+Applying: Mon Dec 14 12:18:29 EST 2020
+To github.com:FLARE-forecast/FCRE-data.git
+   eeb8898..86a1691  master -> master
