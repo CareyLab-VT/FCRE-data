@@ -126906,3 +126906,15 @@ and the repository exists.
 
 Logs:
 
+[mia-logs 3a268398] 12/27/20 13:51:13 EST: Logs
+ 5 files changed, 594 insertions(+)
+ssh: connect to host github.com port 22: Network is unreachable
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: connect to host github.com port 22: Network is unreachable
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
