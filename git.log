@@ -129294,3 +129294,10 @@ From github.com:FLARE-forecast/FCRE-data
 Already up to date.
 To github.com:FLARE-forecast/FCRE-data.git
    8ca45ff6..1c3ffd74  mia-logs -> mia-logs
+[mia-logs a67010cd] 01/15/21 08:09:46 EST: Logs
+ 3 files changed, 51 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   1c3ffd74..a67010cd  mia-logs -> mia-logs
+packet_write_wait: Connection to 140.82.113.4 port 22: Broken pipe
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
