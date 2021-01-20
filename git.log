@@ -129955,3 +129955,16 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/FCRE-data.git
    ce875eab..53c62752  mia-logs -> mia-logs
+[mia-logs 15e862d1] 01/20/21 08:09:57 EST: Logs
+ 4 files changed, 80 insertions(+)
+To github.com:FLARE-forecast/FCRE-data.git
+   53c62752..15e862d1  mia-logs -> mia-logs
+packet_write_wait: Connection to 140.82.113.3 port 22: Broken pipe
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Everything up-to-date
+
+Logs:
+
