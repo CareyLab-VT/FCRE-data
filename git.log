@@ -130117,3 +130117,23 @@ remote: warning: See http://git.io/iEPt8g for more information.
 remote: warning: File ping-full.log is 51.25 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
 To github.com:FLARE-forecast/FCRE-data.git
    0ed83232..169b0d72  mia-logs -> mia-logs
+[mia-logs 5106c877] 01/21/21 08:05:01 EST: Logs
+ 3 files changed, 52 insertions(+)
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File ping-full.log is 51.25 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+To github.com:FLARE-forecast/FCRE-data.git
+   169b0d72..5106c877  mia-logs -> mia-logs
+
+############################ mia - 01/21/21 14:05:01 EST ############################
+
+Data:
+
+[fcre-catwalk-data 286f7cd] 01/21/21 14:05:01 EST: Git Backup
+ 2 files changed, 72 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/FCRE-data.git
+   ea9c51c..286f7cd  fcre-catwalk-data -> fcre-catwalk-data
+
+Logs:
+
